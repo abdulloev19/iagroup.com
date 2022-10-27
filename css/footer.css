@@ -1,0 +1,11 @@
+footer{
+    width: 100vw;
+    border-top: 1px solid teal;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.508);
+    flex: 0 0 60px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

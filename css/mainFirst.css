@@ -1,0 +1,35 @@
+.main_first {
+  width: 100vw;
+  height: 100vh;
+  color: #fff;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+
+.main_first .main_first_content  {
+  display: flex;
+  align-items: center;
+  overflow: auto;
+  flex-direction: column;
+}
+
+.main_first .main_first_content > h2 {
+  width: 70%;
+  font-size: 6em;
+  color: #fff;
+  text-align: center;
+  transition: all 0.3s;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+}
+
+.main_first .main_first_content > h2:hover {
+  color: rgb(203, 229, 252);
+}
