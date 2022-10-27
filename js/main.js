@@ -9,7 +9,7 @@ const services = { template: '<h2>Услуги</h2>' }
 const Projects = { template: '<h2>Проекты</h2>' }
   
 const routes = [
-  { path: '/', component: indexPage },
+  { path: '/iagroup.com', component: indexPage },
   { path: '/aboutcompany', component: aboutСompany },
   { path: '/сlients', component: сlients },
   { path: '/services', component: services },
