@@ -33,7 +33,7 @@ export let header = {
       </div>
       <nav>
         <ul class="menu_link">
-        <li class="menu_item"><router-link to="/">Главная</router-link></li>
+        <li class="menu_item"><router-link to="/iagroup.com">Главная</router-link></li>
         <li class="menu_item"><router-link to="/aboutcompany">О компание </router-link></li>
         <li class="menu_item"><router-link to="/approachtowork">Подход к работе</router-link></li>
           <li class="menu_item"><router-link to="/services">Услуги</router-link></li>
